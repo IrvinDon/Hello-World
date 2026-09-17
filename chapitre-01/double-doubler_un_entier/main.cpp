@@ -6,6 +6,5 @@ int main (){
     scanf("%i",&a);
         b=a*2;
             printf("%i\n",b);
-    printf("bonjour\n");
     return 0;
 }
